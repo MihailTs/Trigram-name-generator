@@ -1,4 +1,4 @@
-# 🇧🇬 Bulgarian Name Generator
+# Bulgarian Name Generator
 
 A trigram-based statistical model that generates authentic Bulgarian names using character-level Markov chains trained on real name data.
 
